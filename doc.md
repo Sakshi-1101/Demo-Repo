@@ -1,0 +1,46 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "doc.md",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyOoRdnukUE/Y3cLt8RctBew",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Sakshi-1101/Demo-Repo/blob/main/doc.md\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "ZjlKMT4348zU"
+      },
+      "source": [
+        "# DEMO REPOSITORY!!\n",
+        "This repository was made to learn how to create a repository...\n",
+        "\n",
+        "\n",
+        "---\n",
+        "\n"
+      ]
+    }
+  ]
+}
